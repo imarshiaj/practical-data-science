@@ -1,0 +1,157 @@
+{
+  "title": "Practical Data Science: Working with Data (No Machine Learning)",
+  "language": "English",
+  "main_folders": [
+    "1. Practical Python Foundations",
+    "2. NumPy & Pandas",
+    "3. Data Collection",
+    "4. Data Cleaning & Preparation",
+    "5. Data Manipulation & Transformation",
+    "6. Exploratory Data Analysis",
+    "7. Data Visualization",
+    "8. Statistics for Data Analysis",
+    "9. Practical Case Studies"
+  ],
+  "notebook_count": 25,
+  "notebooks": [
+    {
+      "folder": "1. Practical Python Foundations",
+      "file": "01_python_for_data_work.ipynb",
+      "title": "Practical Python Foundations"
+    },
+    {
+      "folder": "1. Practical Python Foundations",
+      "file": "02_functions_files_and_errors.ipynb",
+      "title": "Functions, Files, and Errors"
+    },
+    {
+      "folder": "2. NumPy & Pandas",
+      "file": "03_numpy_arrays_for_data.ipynb",
+      "title": "NumPy Arrays for Data Work"
+    },
+    {
+      "folder": "2. NumPy & Pandas",
+      "file": "04_pandas_dataframes_fundamentals.ipynb",
+      "title": "Pandas DataFrames: The Essentials"
+    },
+    {
+      "folder": "2. NumPy & Pandas",
+      "file": "05_read_write_csv_excel_and_data_formats.ipynb",
+      "title": "Reading and Writing Data"
+    },
+    {
+      "folder": "3. Data Collection",
+      "file": "06_sqlite_and_sql_for_analysis.ipynb",
+      "title": "SQL for Data Analysis with SQLite"
+    },
+    {
+      "folder": "3. Data Collection",
+      "file": "07_apis_requests_and_json.ipynb",
+      "title": "Collecting Data from APIs"
+    },
+    {
+      "folder": "3. Data Collection",
+      "file": "08_web_scraping_with_beautifulsoup.ipynb",
+      "title": "Web Scraping with BeautifulSoup"
+    },
+    {
+      "folder": "4. Data Cleaning & Preparation",
+      "file": "09_missing_values_and_imputation.ipynb",
+      "title": "Missing Values: Diagnose Before You Fill"
+    },
+    {
+      "folder": "4. Data Cleaning & Preparation",
+      "file": "10_duplicates_outliers_and_data_types.ipynb",
+      "title": "Duplicates, Outliers, and Data Types"
+    },
+    {
+      "folder": "4. Data Cleaning & Preparation",
+      "file": "11_merging_joining_and_integrating_data.ipynb",
+      "title": "Integrating Data with Merge, Join, and Concat"
+    },
+    {
+      "folder": "5. Data Manipulation & Transformation",
+      "file": "12_groupby_aggregation_and_transform.ipynb",
+      "title": "GroupBy, Aggregation, and Transform"
+    },
+    {
+      "folder": "5. Data Manipulation & Transformation",
+      "file": "13_pivot_tables_reshaping_and_melt.ipynb",
+      "title": "Pivot Tables and Reshaping"
+    },
+    {
+      "folder": "5. Data Manipulation & Transformation",
+      "file": "14_datetime_categories_and_ranking.ipynb",
+      "title": "Dates, Categories, and Ranking"
+    },
+    {
+      "folder": "6. Exploratory Data Analysis",
+      "file": "15_descriptive_statistics_and_distributions.ipynb",
+      "title": "Descriptive Statistics and Distributions"
+    },
+    {
+      "folder": "6. Exploratory Data Analysis",
+      "file": "16_relationships_correlations_and_crosstabs.ipynb",
+      "title": "Relationships, Correlation, and Crosstabs"
+    },
+    {
+      "folder": "7. Data Visualization",
+      "file": "17_matplotlib_for_data_analysis.ipynb",
+      "title": "Matplotlib for Data Analysis"
+    },
+    {
+      "folder": "7. Data Visualization",
+      "file": "18_seaborn_for_exploratory_analysis.ipynb",
+      "title": "Seaborn for Exploratory Visualization"
+    },
+    {
+      "folder": "7. Data Visualization",
+      "file": "19_plotly_interactive_visualization.ipynb",
+      "title": "Interactive Charts with Plotly Express"
+    },
+    {
+      "folder": "8. Statistics for Data Analysis",
+      "file": "20_probability_distributions_and_clt.ipynb",
+      "title": "Probability, Distributions, and the Central Limit Theorem"
+    },
+    {
+      "folder": "8. Statistics for Data Analysis",
+      "file": "21_confidence_intervals_and_bootstrap.ipynb",
+      "title": "Confidence Intervals and Bootstrap"
+    },
+    {
+      "folder": "8. Statistics for Data Analysis",
+      "file": "22_hypothesis_testing_and_ab_tests.ipynb",
+      "title": "Hypothesis Tests and A/B Testing"
+    },
+    {
+      "folder": "9. Practical Case Studies",
+      "file": "23_case_study_restaurant_tips.ipynb",
+      "title": "Case Study: Exploring Restaurant Tips"
+    },
+    {
+      "folder": "9. Practical Case Studies",
+      "file": "24_case_study_monthly_flights.ipynb",
+      "title": "Case Study: Monthly Passenger Counts"
+    },
+    {
+      "folder": "9. Practical Case Studies",
+      "file": "25_case_study_sales_data_quality_audit.ipynb",
+      "title": "Case Study: Sales Data Quality Audit"
+    }
+  ],
+  "datasets": [
+    {
+      "file": "datasets/tips_sample.csv",
+      "description": "Small preview of public seaborn-data tips dataset; not representative for inference."
+    },
+    {
+      "file": "datasets/flights_sample.csv",
+      "description": "First four years (1949-1952) of the public seaborn-data flights example dataset."
+    },
+    {
+      "file": "synthetic case data",
+      "description": "Generated within notebooks for isolated skill practice."
+    }
+  ]
+}
